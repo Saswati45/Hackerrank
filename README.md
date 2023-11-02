@@ -1,7 +1,11 @@
 # Hackerrank
  
 
-|    Solved questions       |                                   Solution     |
+
+
+
+
+| Sol. No       |   Solved questions    | 
 |--------------|-----------|
-|  https://www.hackerrank.com/challenges/java-stdin-and-stdout-1 | 1.99      | 
-|   https://www.hackerrank.com/challenges/java-stdin-stdout    | **1.89**  | 
+|  1 |  https://www.hackerrank.com/challenges/java-stdin-and-stdout-1    | 
+|    2  | https://www.hackerrank.com/challenges/java-stdin-stdout  | 
