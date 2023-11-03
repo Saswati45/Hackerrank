@@ -15,4 +15,5 @@
 |    6  | https://www.hackerrank.com/challenges/java-loops/problem | 
 |   7  | https://www.hackerrank.com/challenges/java-datatypes/problem | 
 |    8  | https://www.hackerrank.com/challenges/java-end-of-file/problem | 
+|    9  |https://www.hackerrank.com/challenges/java-static-initializer-block/problem|
  
