@@ -1,9 +1,4 @@
 # Hackerrank
- 
-
-
-
-
 
 | Sol. No       |   Solved questions    | 
 |--------------|-----------|
